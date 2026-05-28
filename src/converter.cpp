@@ -22,4 +22,4 @@ double Conversor_temperatura::fahrenheit_Pra_Kelvin(double temp){ return (temp -
 
 double Conversor_temperatura::kelvin_Pra_Celsius(double temp){ return temp - 273.15; }
 
-double Conversor_temperatura::kelvin_Pra_fahrenheit(double temp){ return 1.8 * (temp - 273.15) + 32; }
+double Conversor_temperatura::kelvin_Pra_Fahrenheit(double temp){ return 1.8 * (temp - 273.15) + 32; }

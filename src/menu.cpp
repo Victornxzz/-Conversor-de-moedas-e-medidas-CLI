@@ -50,7 +50,7 @@ void interface:: menu_Moedas()
 {
     std::system("clear");
     cout << "================================================" << endl;
-    cout << "=================Conversor de moedas ===========" << endl;
+    cout << "============= Conversor de moedas ==============" << endl;
     cout << "================================================" << endl;
 
     int opc;
